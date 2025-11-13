@@ -1,7 +1,7 @@
 ```clojure
 const aboutMe = {
   name: "Can Kayalı",
-  shortname: "ccankayali",
+  shortname: "cankayali1",
   from: "İzmir, Turkey",
   school: "Celal Bayar University",
   social: {
